@@ -1,5 +1,5 @@
-train: /Users/leniecka/python/AIiID/Projekt/YOLO_SPIDER_dataset/images/train
-val: /Users/leniecka/python/AIiID/Projekt/YOLO_SPIDER_dataset/images/val
+train: YOLO_SPIDER_dataset/images/train
+val: YOLO_SPIDER_dataset/images/val
 
 names:
   0: L5/S1
