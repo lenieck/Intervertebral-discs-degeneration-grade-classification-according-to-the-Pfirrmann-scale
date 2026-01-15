@@ -1,9 +1,0 @@
-train: YOLO_SPIDER_dataset/images/train
-val: YOLO_SPIDER_dataset/images/val
-
-names:
-  0: L5/S1
-  1: L4/L5
-  2: L3/L4
-  3: L2/L3
-  4: L1/L2
